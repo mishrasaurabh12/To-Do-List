@@ -1,0 +1,34 @@
+div h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.card {
+    width: 50%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .yourNotes{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+.new1 {
+    margin: 0px 10px;
+}
+
+.form-label {
+    font-size: 20px;
+}
+
+/* .form-control{
+    padding: 0px 0px;
+}  */
